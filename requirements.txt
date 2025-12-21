@@ -10,7 +10,7 @@ beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_bleach_1737382993/work
 Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1756599151967/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1759648874697/work/certifi
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1762976168352/work/certifi
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1761202850602/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1760437218288/work
 comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
@@ -59,6 +59,7 @@ jupyterlab_server @ file:///home/conda/feedstock_root/build_artifacts/bld/rattle
 jupyterlab_widgets @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_widgets_1746450771080/work
 kagglehub==0.3.13
 kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_kiwisolver_1756467527/work
+kneed @ file:///home/conda/feedstock_root/build_artifacts/kneed_1735347959166/work
 lark @ file:///home/conda/feedstock_root/build_artifacts/lark_1758590580146/work
 MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1759055168201/work
 matplotlib==3.10.7
