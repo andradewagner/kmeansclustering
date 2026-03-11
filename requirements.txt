@@ -172,5 +172,6 @@ Werkzeug==3.1.5
 wheel==0.45.1
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1744291053367/work
 wrapt==2.1.1
+xgboost==3.2.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard==0.25.0
